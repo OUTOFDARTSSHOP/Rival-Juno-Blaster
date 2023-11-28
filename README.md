@@ -3,7 +3,7 @@
 Juno is the successor to Jupiter with increased FPS, improved features, and open source nature.
 This blaster contains the new OOD Photons and custom-made Rival wheels that fit standard shell profiles.
 
-<img src="images/Juno.png" width="400">
+<img src="Images/Juno.png" width="400"/>
 
 ## Licensing
 
