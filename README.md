@@ -5,6 +5,20 @@ This blaster contains the new OOD Photons and custom-made Rival wheels that fit 
 
 <img src="Images/Juno.png" width="400"/>
 
+<details>
+<summary> Changelog </summary>
+
+- Changelog: 12-04-2023: v5.1 parts updated.
+  -   N20 casing increased layers
+  -   Cage shifted to accommodate the n20 case changes
+  -   The chamfer on the pusher wheel is reduced to prevent slipping too far onto the shaft
+  -   Added more plastic to the inner handle so the parts aren't just held by the pegs
+- Changelog: 12-07-2023: v5.2 handle updates. 
+  - Trigger trimmed in the right and left direction to help with sticking
+  - A small chamfer was added near the trigger opening so seams didn't cause sticking.
+
+</details>
+
 ## Licensing
 
 If you want to print and sell this item, please contact outofdarts@gmail.com.
