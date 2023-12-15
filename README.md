@@ -16,6 +16,10 @@ This blaster contains the new OOD Photons and custom-made Rival wheels that fit 
 - Changelog: 12-07-2023: v5.2 handle updates. 
   - Trigger trimmed in the right and left direction to help with sticking
   - A small chamfer was added near the trigger opening so seams didn't cause sticking.
+- Changelog: 12-14-2023: v5.3 alternatives and clear instructions
+  - Cage updated to include instructions on polarity and direction of motors
+  - Add 2 more pusher wheel for looser fit
+  - Update manual based on issue 1 and how the nozzle works. 
 
 </details>
 
